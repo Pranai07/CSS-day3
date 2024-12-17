@@ -2,6 +2,7 @@
     /*height: 650px;*/
     /*border: 2px solid black;*/
     text-align: center;
+    border-radius: 10px;
 }
 .a,.b,.c,.d{
     display: inline-block;
